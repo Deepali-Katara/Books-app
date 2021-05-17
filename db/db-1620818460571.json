@@ -1,0 +1,9 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The race",
+      "rating": 3.3
+    }
+  ]
+}

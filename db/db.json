@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "title": "The race",
+      "rating": "3.4",
+      "id": 1
+    },
+    {
+      "title": "The rivals",
+      "rating": "4.8",
+      "id": 2
+    },
+    {
+      "title": "The rivers",
+      "rating": "4.8",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "The ranger",
+      "rating": 4.6
+    },
+    {
+      "title": "my mother",
+      "rating": "4.6",
+      "id": 5
+    }
+  ]
+}
